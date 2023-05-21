@@ -1,5 +1,7 @@
-Hi, my name is
+👋 Hi, my name is
 
-#Yaroslav Belyaev
+# Yaroslav Belyaev
 
 I’m a frontend developer 
+
+My skills
