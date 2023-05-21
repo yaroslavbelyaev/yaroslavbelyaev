@@ -2,12 +2,8 @@
 
 # Yaroslav Belyaev
 
-I’m a frontend developer 
+I’m a frontend developer. I like Web
 
 # My skills
 
- <ul>
- <li>HTML</li>
- <li>CSS</li>
- <li>Sass</li>
- </ul>
+<img aling="center" src="./img/skills.png" alt="skills" />
