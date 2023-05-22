@@ -13,4 +13,5 @@ I’m a frontend developer. I like Web
 For a quick response contact me on telegram
 
 📱 [Telegram](@belyaev_Y)
+<br />
 📩 [Mail](yibelyaev@icloud.com)
