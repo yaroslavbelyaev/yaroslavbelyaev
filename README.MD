@@ -10,7 +10,6 @@ I’m a frontend developer. I like Web
 
 # Contacts
 
-For a quick response contact me on telegram
+For a quick response contact me on telegram<br />
 📱 [Telegram](https://t.me/belyaev_Y)<br />
-
 📩 Mail [yibelyaev@icloud.com](mailto:yibelyaev@icloud.com)
