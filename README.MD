@@ -1,8 +1,6 @@
-👋 Hi, my name is
+<h1 align="center">Hi there 👋</h1>
 
-# Yaroslav Belyaev
-
-I’m a frontend developer. I like Web
+I’m a frontend developer. I love web development
 
 # My skills
 
